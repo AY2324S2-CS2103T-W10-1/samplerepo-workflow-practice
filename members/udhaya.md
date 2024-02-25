@@ -7,6 +7,7 @@
 
 * 23/24 Semester 2 - CS1231S Teaching Assistant
 * 23/24 Semester 1 - CS1231S/1010 Teaching Assistant
+* Ace Combat 7 Ace
 
 ## Accomplishments
 
